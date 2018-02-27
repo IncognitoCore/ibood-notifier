@@ -8,3 +8,6 @@
 
 # Example
 ![example](https://github.com/IncognitoCore/ibood-notifier/raw/master/Examples/Screen%20Shot%202018-02-27%20at%2010.20.14.png "Example")
+
+# Credits
+Based on Mastermindzh' Linux script: https://github.com/Mastermindzh/Scripts/blob/master/bash/iBOOD
